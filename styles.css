@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h1 {
+  margin: 20px;
+  padding: 10px;
+  border: dodgerblue, 3px, solid;
+}
+
+h3 {
+  margin: 20px;
+  padding: 5px;
+}
+
+form {
+  border: dodgerblue, 3px, solid;
+}
+
+input,
+form {
+  margin: 20px;
+  padding: 5px;
+}
+
+#submit {
+  border: rgb(30, 251, 30), 2px, solid;
+}
+
+#submit,
+#sort-alpha,
+#sort-rating {
+  padding: 3px;
+  margin-left: 10px;
+}
+
+ol {
+}
+
+li {
+}
+
+.delete {
+  padding-left: 2px;
+  padding-right: 2px;
+  border: red, 1px, solid;
+  background-color: transparent;
+}
